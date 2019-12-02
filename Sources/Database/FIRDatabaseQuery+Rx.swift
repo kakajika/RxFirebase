@@ -7,7 +7,6 @@
 //
 
 import RxSwift
-import RxCocoa
 import FirebaseDatabase
 
 public typealias PreviousSiblingKeyDataSnapshot = (snapshot: DataSnapshot, prevKey: String?)
